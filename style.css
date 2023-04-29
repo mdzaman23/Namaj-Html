@@ -1,0 +1,72 @@
+*  {
+    margin: 5 ; 
+    padding: 5 ;
+}
+h1{ background-color: rgb(218, 14, 116);
+    padding:4px 10 px;
+    display: inline-block;
+    color: white;
+    border-radius: 50px; } ecolor: rgb(254, 5, 5);
+.box {
+    width: 800px 
+    margin: 0 auto;
+}
+
+.header-area, .menu ul {
+    display: flex;
+}
+
+ .header-area {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+.menu ul li{
+    margin: 0 20px ;
+font-size: 2.3ch;
+}
+
+a {text-decoration: none;}
+
+.menu ul li a {color: rgb(218, 14, 116);
+
+ background-color: rgb(9, 9, 9);
+padding:4px 10 px;
+display: inline-block;
+color: white;
+border-radius: 50px; 
+
+.slider{background-color: rgb(51, 14, 218);
+padding: 40px 0;}
+
+.slider-area {align-items: center;
+}
+.hero-text {font-size: 2ch;}
+    
+
+    .hero-text h2, p,{padding-right:  20px;
+    color: white;
+    margin-bottom: 30px;}
+
+    .hero-image {padding-left: 20px;}
+
+    .header {padding: 10px;}
+
+    .namaj-image {padding-top: 50px;
+    padding-right: 30px;}
+
+    .somoy-suchi {font-size: 2ch;
+    color: rgb(14, 13, 13);}
+
+    .namaj {background-color: aqua;
+    padding-bottom: 50px;}
+h3 {padding-top: 40px;
+    padding-right:30px;}
+.somoy-suchi {padding-top:40px;
+    pading-left:20px;}
+
+.footer {background: rgb(37, 37, 37);color: rgb(255, 255, 255);margin-top: 25px;padding: 10px;}
